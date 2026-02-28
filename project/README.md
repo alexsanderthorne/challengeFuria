@@ -1,3 +1,7 @@
+<img width="733" height="545" alt="chat" src="https://github.com/user-attachments/assets/dbc2cb90-324b-47dc-aa52-973a04f85bd5" />
+
+
+
 # Project Title
 
 A brief description of your project goes here. Explain what the project does and its main features.
